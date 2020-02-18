@@ -10,4 +10,11 @@
     <PackageReference Include="Entityframework" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="BLL\" />
+    <Folder Include="DAL\" />
+    <Folder Include="UI\Consultas\" />
+    <Folder Include="UI\Registros\" />
+  </ItemGroup>
+
 </Project>
